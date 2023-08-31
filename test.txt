@@ -1,1 +1,5 @@
 test
+
+
+local diff
+remote diff
